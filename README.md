@@ -9,11 +9,11 @@ Biological receptive visual fields have been shown to be Gabor filter (Fig. 1). 
 
 
 <p align="center">
-  <img src="./visual_neuron_receptor_fields.png" alt="ex_img">
+  <img src="./img/Gabor_filter_vs_actual_neuron.png"
   <br>Figure 1.  The measured receptive field output from a mouse compared to a Gabor field model.
 </p>
 
 <p align="center">
-  <img src="./visualize_cnn.png" alt="ex_img">
+  <img src="./img/ANN_output.png"
   <br>Figure 2.  The visual receptive field from an CNN trained on image net.
 </p>
